@@ -1,2 +1,4 @@
 ## Hello There 
-- Cyber Security Student
+- I am a Cyber Security Student at Leeds Beckett University
+- I have an interest in Cyber Security as well as Encryption and Cryptography
+- 
