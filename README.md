@@ -5,4 +5,4 @@
 - I keep up with ongoing developments in the world of Cyber Security, Forensics, and on going Threats they face
 - I have some knowledge of Python, HTML, CSS, JavaScript which i have gained via my studies
 <p align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/terminal.gif" width="400" height="400">
+<img src="https://raw.githubusercontent.com/trinib/github-stats-terminal-style/master/github_stats.svg">
