@@ -4,5 +4,4 @@
 - I have an interest in Cyber Security as well as Encryption and Cryptography
 - I keep up with ongoing developments in the world of Cyber Security, Forensics, and on going Threats they face
 - I have some knowledge of Python, HTML, CSS, JavaScript which i have gained via my studies
-<p align="center">
 [![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=your-username&theme=tokyonight)](https://github.com/H3L1X006)
