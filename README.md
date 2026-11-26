@@ -4,7 +4,7 @@
 - I have an interest in Cyber Security as well as Encryption and Cryptography
 - I keep up with ongoing developments in the world of Cyber Security, Forensics, and on going Threats they face
 - I have some knowledge of Python, HTML, CSS, JavaScript which i have gained via my studies
-[![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=H3L1X006&theme=hacker&headerStyle=mac&typingSpeed=130&hostname=github.com&commands=neofetch%2Cuptime%2Ctop-repos%2Cexit)](https://github.com/H3L1X006)
+[![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=H3L1X006&theme=hacker&headerStyle=mac&typingSpeed=130&hostname=github.com&commands=neofetch%2Cuptime%2Cexit)](https://github.com/H3L1X006)
 
 > Those who can imagine anything, can create the impossible.
 >
